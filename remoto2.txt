@@ -1,2 +1,6 @@
 Este es mi archivo 2 desde mi archivo remoto
+<<<<<<< HEAD
 cambio desarrollador 1
+=======
+cambio de desarrollador 2
+>>>>>>> 2c63420c26431745bfc55c064f3554ebc3370a22
